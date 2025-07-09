@@ -116,7 +116,7 @@ Front-End Developer | MERN Stack Enthusiast | Always Learning
 
 ---
 
-## 📍 Related
+## Related
 
 Looking for my other practice projects?
 - 🔗 [react-styling-practice](https://github.com/FaiziCodeSpace/react-styling-practice.git)
