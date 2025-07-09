@@ -109,7 +109,7 @@ This project is open-source under the [MIT License](./LICENSE).
 
 ---
 
-## ✨ Author
+## Author
 
 **Faizan** — [@FaiziCodeSpace](https://github.com/FaiziCodeSpace)  
 Front-End Developer | MERN Stack Enthusiast | Always Learning
