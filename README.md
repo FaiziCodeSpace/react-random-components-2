@@ -30,7 +30,7 @@ react-random-components/
 
 ---
 
-## ⚛️ Components Included
+## Components Included
 
 ### 📁 `src/compliment`
 
