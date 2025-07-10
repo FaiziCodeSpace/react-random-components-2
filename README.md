@@ -1,8 +1,8 @@
-# react-random-components-2
+### React-random-components-2
 
 This repository is a collection of random but useful React components created for hands-on learning and practicing real-world frontend logic. Each component is self-contained, modular, and demonstrates key concepts of React.
 
-## 🧠 What I Learned
+### 🧠 What I Learned
 
 - Reusable component patterns
 - Controlled vs uncontrolled inputs
@@ -12,7 +12,7 @@ This repository is a collection of random but useful React components created fo
 - Passing and using props
 - React folder structure for scaling
 
-## 📁 Folder Structure
+### 📁 Folder Structure
 
 ```
 src/
