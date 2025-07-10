@@ -37,7 +37,7 @@ src/
 ├── main.jsx
 ```
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 ```bash
 git clone https://github.com/FaiziCodeSpace/react-random-components-2.git
@@ -46,18 +46,18 @@ npm install
 npm run dev
 ```
 
-## ⚙️ Tech Stack
+### ⚙️ Tech Stack
 
 - React.js (with JSX)
 - Vite
 - CSS (custom styling)
 - ESLint
 
-## 📌 Purpose
+### 📌 Purpose
 
 This is a personal practice repo to improve my component-building skills in React. I’ll keep expanding it with new ideas, reusable UI patterns, and state management techniques.
 
-## 🪪 License
+### 🪪 License
 
 MIT License
 
