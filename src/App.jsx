@@ -1,15 +1,26 @@
 import './App.css';
 import { useState } from 'react';
-import Clock from './compliment/clock';
-import Countries from './compliment/country';
-import ShowOrHide from './compliment/showOrHide';
-import UseEffect from './compliment/useEffect';
+import Table from './compliment/array';
+import Routine from './compliment/checkbox';
+import Forming from './compliment/form';
+import Info from './compliment/information';
+import RuntimeLoader from './compliment/input';
+import Boards from './compliment/output';
+import Props from './compliment/props';
+import GenderProcess from './compliment/radio';
+import Counter from './compliment/toggleBtn';
+import Users from './compliment/user';
+
 
 const components = {
-  Clock,
-  Countries,
-  ShowOrHide,
-  UseEffect,
+    Table,
+    Routine,
+    Forming,
+    Info,
+    RuntimeLoader,
+    Boards,
+    GenderProcess,
+    Counter
 };
 
 function getRandomComponentKey() {
