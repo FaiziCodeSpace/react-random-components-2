@@ -51,13 +51,13 @@ npm run dev
 - React.js (with JSX)
 - Vite
 - CSS (custom styling)
-- ESLint
+
 
 ## 📌 Purpose
 
 This is a personal practice repo to improve my component-building skills in React. I’ll keep expanding it with new ideas, reusable UI patterns, and state management techniques.
 
-## 🪪 License
+## License
 
 MIT License
 
