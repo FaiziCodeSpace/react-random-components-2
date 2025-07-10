@@ -1,8 +1,8 @@
-### React-random-components-2
+## React-random-components-2
 
 This repository is a collection of random but useful React components created for hands-on learning and practicing real-world frontend logic. Each component is self-contained, modular, and demonstrates key concepts of React.
 
-### 🧠 What I Learned
+## 🧠 What I Learned
 
 - Reusable component patterns
 - Controlled vs uncontrolled inputs
@@ -12,7 +12,7 @@ This repository is a collection of random but useful React components created fo
 - Passing and using props
 - React folder structure for scaling
 
-### 📁 Folder Structure
+## 📁 Folder Structure
 
 ```
 src/
@@ -37,7 +37,7 @@ src/
 ├── main.jsx
 ```
 
-### 🚀 Getting Started
+## 🚀 Getting Started
 
 ```bash
 git clone https://github.com/FaiziCodeSpace/react-random-components-2.git
@@ -46,23 +46,21 @@ npm install
 npm run dev
 ```
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 - React.js (with JSX)
 - Vite
 - CSS (custom styling)
 - ESLint
 
-### 📌 Purpose
+## 📌 Purpose
 
 This is a personal practice repo to improve my component-building skills in React. I’ll keep expanding it with new ideas, reusable UI patterns, and state management techniques.
 
-### 🪪 License
+## 🪪 License
 
 MIT License
 
 ---
 
 📂 **Repo**: [react-random-components-2](https://github.com/FaiziCodeSpace/react-random-components-2.git)
-
-⭐ Don’t forget to star the repo if you find it helpful!
